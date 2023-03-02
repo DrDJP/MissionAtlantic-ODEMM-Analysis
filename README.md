@@ -1,10 +1,12 @@
-# Mission Atlantic ODEMM Analysis
+# Mission Atlantic Risk Analysis
 
 ## Introduction
 
-Script for performing the Mission Atlantic ODEMM Analysis. ODEMM stands for 'Options for Delivering Ecosystem-Based Marine Management'.
+Script for performing the Mission Atlantic Risk Analysis based on the ODEMM (Options for Delivering Ecosystem-Based Marine Management) approach.
 
-By Debbi Pedreschi
+Full script provided by Debbi Pedreschi, but based on doi:10.1093/icesjms/fsu245 with contributions from Paul Bouch and Tiago Gandra.
+
+Description of methods relating to this analysis are presented here: https://doi.org/10.3389/fmars.2022.1037878 
 
 ## Directory structure
 
